@@ -1,4 +1,4 @@
-# Multilingual Fine-tuning Project
+# Multilingual NER
 
 This project demonstrates how to fine-tune a pre-trained model on a multilingual corpus and evaluate its performance across multiple languages, even on those not included in the fine-tuning process or languages with low resource availability.
 
